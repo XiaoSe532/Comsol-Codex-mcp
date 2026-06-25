@@ -7,6 +7,6 @@ authors:
 version: "0.1.0"
 date-released: "2026-06-25"
 license: "MIT"
-repository-code: "https://github.com/XiaoSe532/Comsol-Codex-mcp"
+repository-code: "https://github.com/XiaoSe532/comsol-codex-mcp"
 abstract: "An MCP server and agent toolkit for reproducible COMSOL Multiphysics batch workflows."
 
