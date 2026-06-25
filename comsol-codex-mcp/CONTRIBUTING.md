@@ -7,7 +7,7 @@ This project is meant to stay generic. Contributions should improve the reusable
 ## Development Setup
 
 ```bash
-git clone https://github.com/XiaoSe532/Comsol-Codex-mcp
+git clone https://github.com/XiaoSe532/comsol-codex-mcp
 cd comsol-codex-mcp
 python -m pip install -e ".[dev]"
 ```
